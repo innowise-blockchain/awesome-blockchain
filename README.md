@@ -1,1 +1,3 @@
-# awesome-blockchain
+# Awesome Blockchain
+
+Awesome Blockchain List
