@@ -2,6 +2,12 @@
 
 Awesome Blockchain List
 
+## Specification
+
+* [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+
+* [Wiki page](https://en.wikipedia.org/wiki/Blockchain)
+
 ## Illustration
 
 * [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
