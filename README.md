@@ -12,6 +12,14 @@ Awesome Blockchain List
 
 * [How to Explain Blockchain Technology to Your Children](https://101blockchains.com/explain-blockchain-to-a-child/)
 
+## Consensus
+
+### Problems
+
+* [Byzantine generals problem](https://en.wikipedia.org/wiki/Byzantine_fault)
+
+* [Fault tolerance](https://en.wikipedia.org/wiki/Fault_tolerance)
+
 ## Specification
 
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
